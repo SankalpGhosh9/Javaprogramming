@@ -1,0 +1,21 @@
+package Day1;
+
+public class Loop {
+
+	public static void main(String[] args) {
+	/*
+	 
+	 while(condition)
+	 {
+	 statement;
+	 inc/dec;
+	 }
+	 */
+        int i=1;
+        while(i<11) {
+        	System.out.println(i);
+        	i++;
+        }
+	}
+
+}

@@ -1,0 +1,18 @@
+package Day1;
+
+public class SecondJavaProgram {
+
+	public static void main(String[] args) {
+	  //System.out.println("psvm");
+         System.out.println("ok"); // ctrl + space
+         System.out.println(348-74);
+         
+         /*
+          vhdsvcbhvhvhvdvv
+          vevhvhesvgvgvh
+          vehvegvvesgveve
+          evesvhevbgev
+          */
+	}
+
+}

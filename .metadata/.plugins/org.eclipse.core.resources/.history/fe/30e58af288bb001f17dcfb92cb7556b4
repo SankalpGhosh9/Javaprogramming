@@ -1,0 +1,11 @@
+package Day2;
+
+public class Arrayclass {
+
+	public static void main(String[] args) {
+		
+         int a[]= {100,22,3334,333344};
+         System.out.println(a.length);
+	}
+
+}

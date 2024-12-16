@@ -1,0 +1,18 @@
+package Day1;
+
+public class Switchcase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 1;
+       switch (a) {
+       case 1:System.out.println("Sunday");
+       break;
+       case 2:System.out.println("Monday is present");;
+       break;
+       default:System.out.println("day");;
+       break;
+       }
+	}
+
+}
