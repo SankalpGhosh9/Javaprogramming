@@ -1,0 +1,7 @@
+package Day3;
+
+import java.lang.runtime.ObjectMethods;
+
+public class Sorted extends ObjectMethods {
+
+}

@@ -1,0 +1,18 @@
+package Day2;
+
+public class ElementOccurence {
+
+	public static void main(java.lang.String[] args) {
+		int a[]= {1,2,33,4,55,4,55,6,6,7};
+		int counter = 0;
+		int occured_element = 55;
+       for (int i =0;i<=a.length-1;i++) {
+    	   if(a[i]==occured_element) {
+    		   counter++;
+    		   break;
+    	   }
+       }
+       System.out.println(counter);
+	}
+
+}

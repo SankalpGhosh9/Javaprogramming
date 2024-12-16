@@ -1,0 +1,13 @@
+package Day2;
+import java.util.Arrays;
+
+public class Sorterstring {
+
+	public static void main(java.lang.String[] args) {
+		java.lang.String s[]= {"wbhhs","gchvhas","ggdvwa"};
+		Arrays.sort(s);
+		System.out.println(Arrays.toString(s));
+
+	}
+
+}
