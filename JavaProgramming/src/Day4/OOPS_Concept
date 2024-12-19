@@ -1,0 +1,27 @@
+//		/*
+//		 class  √
+//		 object √
+//		 polymorphism ==> can be achievied using method overloading
+//		 encapsulation ==> wrapping up of data and methods into single unit (class).
+//		 abstraction
+//		 inheritance
+
+		Static variable ==> its comman variable across all the objects.
+		Non-Static variable ==> for using this variable object is required.
+		
+		Static methods ==> its comman method across all the objects.
+		Static variables can be accessed directly
+		but non-static variables cannot be accesed directly ,
+		it requires object creation through which we can access them.
+//		 
+		Non-Static methods ==> It can use all directly without creating any objects.
+								i.e 1)Static variable
+									2)Non-Static variable
+									3)Static methods
+									4)Non-Static methods
+									
+		Note := If main method is in different Class then ,
+		 we access static variable and static method using Classname.static_variable
+														   Classname.static_method();
+
+*/

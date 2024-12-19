@@ -1,0 +1,81 @@
+1. Convert to Upper Case ==>	Ctrl + Shift + X
+
+2. convert to Lower Case ==> Ctrl + Shift + Y
+
+3. System.out.println();==> "sysout", then Crtl + Space
+
+4. public static void main(String [] args) {}
+   "main", then Ctrl + Space
+
+5. for loops 
+   "for", then Ctrl + Space
+
+6. "foreach" loops 
+   "foreach", then Ctrl + Space
+
+7. "while" loop
+   "while", then Ctrl + Space
+
+8. "do while" loop
+   "do", then Ctrl + Space
+
+9. if statements
+   "if", then Ctrl + Space   
+
+10. Move lines text up or down
+    Alt + Up or Down Arrow
+
+11.  Surround code with various stuff
+    Alt + Shift + Z
+
+12. Automatically generate Getters and Setters 
+    Right Click > Source > Generate Getters and Setters 
+12. (2) Cooler way to do the same thing
+    Alt + Shift + S, then R
+
+13. Automatically generate Constructor using Fields 
+    Right Click > Source > Generate constructors
+
+13. (2) Cooler way to do the same thing
+    Alt + Shift + S, then O
+
+14. Auto - format ==> Ctrl + Shift + F
+
+15. Optimize imports ==> Ctrl + Shift + O
+
+16. Comment or uncomment lines of code
+    Ctrl + /
+17. Multi - line block comment
+    Ctrl + Shift + /
+18. Rename variable, method, or class
+    Alt + Shift + R
+19. Jump to line 
+    Ctrl + L
+20. View class outline 
+    Ctrl + O
+21. Extract method 
+    Alt + Shift + M
+22. Delete line 
+    Ctrl + D
+23. View call hierarchy 
+	 Ctrl + Alt + H
+24. View class hierarchy 
+    F4
+25. Jump to beginning/ end of {}, (), or [] 
+    Ctrl + Shift + P
+26. Increase or decrease font size
+    Ctrl + "+", Ctrl + "-"
+27. Jump to method implementation 
+    F3 or Ctrl + Click
+28. Jump to variable declaration 
+    F3 or Ctrl + Click
+29. Open resource ==> Ctrl + Shift + R
+
+30. Change tabs ==> Ctrl + PageUp, Ctrl + PageDown
+
+31. Jump backward or forward in history ==> Alt + Left Arrow, Alt + Right Arrow
+31. (2) Cooler way to do the same thing ==> Back or Forward Mouse Buttons 
+
+32. Run program ==> Ctrl + F11
+
+33. View all keyboard shortcut ==> Ctrl + Shift + L
