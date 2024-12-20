@@ -1,11 +1,26 @@
 //		/*
-//		 class  √
-//		 object √
-//		 polymorphism ==> can be achievied using method overloading
-//		 encapsulation ==> wrapping up of data and methods into single unit (class).
-//		 abstraction
-//		 inheritance
+//		 Class  √ ==> Blueprint.
+//		 object √ ==>Physical form of the Blueprint.
 
+//		 Polymorphism √ ==> can be achievied using method overloading.
+
+//		 Encapsulation √ ==> wrapping up of data and methods into single unit (class).
+								"this" keyword + getter and setters are used.
+//		 
+		 Abstraction  ==>Its a process of hiding the implementation details and showing only functionality to  the user.
+						1)Abstract class
+						2)Interface
+										
+//		 Inheritance √ ==> Acquiring all the properties(variables) and behaivours(methods) from one class to anaother
+ 							1)Reusuablity
+ 							2)Avoid Duplication  
+ 							3)" Extends " key
+ 							4)Overriding can be achieved but 2 class must have inheriteance property 
+ 							 	Overriding => method with same name and same params can be 
+ 							 	           used from Parent class to Child Class but only changing the implementation in the method;                    
+ 
+ 
+  //                          
 		Static variable ==> its comman variable across all the objects.
 		Non-Static variable ==> for using this variable object is required.
 		
@@ -13,7 +28,7 @@
 		Static variables can be accessed directly
 		but non-static variables cannot be accesed directly ,
 		it requires object creation through which we can access them.
-//		 
+		 
 		Non-Static methods ==> It can use all directly without creating any objects.
 								i.e 1)Static variable
 									2)Non-Static variable
@@ -23,5 +38,31 @@
 		Note := If main method is in different Class then ,
 		 we access static variable and static method using Classname.static_variable
 														   Classname.static_method();
-
+		
+		
+		//final --- value is fixed we cannot change the after using final keyword.
+		final = variables,methods,class
+		
+		//super -- it is used to invoke the immediate parent class variable,
+				   it is used to invoke the immediate parent class method.
+		
+		//Wrapper Class
+			Integer
+			Short
+			Float
+			Double
+			Boolean
+		
+		
+		//Built in Packages
+		
+			built-in packages
+			user-defined packages
+		  
+		//Access Modifiers
+		1)public - directly access from everywhere.
+		2)protected - can access within package and class but not  directly 
+		        		we need inheritence.
+		3)default - access within the package
+		4)private - access within the class
 */

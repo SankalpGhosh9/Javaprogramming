@@ -1,0 +1,5 @@
+ArrayList arr = new ArrayList();//Heterogeneous datatype
+
+ArrayList<Integer> arr = new ArrayList<Integer>();  //Homogeneous datatype using Wrapper classes
+																either Integer,Float,Double,Boolean
+																
